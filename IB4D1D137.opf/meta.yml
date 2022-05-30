@@ -1,0 +1,64 @@
+id: IB4D1D137
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T20:51:41.473338'
+last_modified: '2022-05-30T20:51:41.473343'
+parser: null
+source_metadata:
+  title: Gatön Ngawang Lekpa Series
+  language: bo
+  description: 'Texts by and about the Sakya lama Gatön Ngawang Lekpa (sga ston ngag
+    dbang legs pa, 1864–1941) of Tharlam Monastery, one of the foremost Lamdré (lam
+    ’bras) teachers of recent times:'
+  volume:
+    f421C:
+      title: 'Ocean of Offering Clouds: A Light Offering Prayer'
+      base_file: f421C.txt
+      order: 1
+      parent: Aspiration Prayers
+    f6C35:
+      title: 'The Heart of the Mahāyāna Path: A Bodhisattva’s Prayer of Aspiration'
+      base_file: f6C35.txt
+      order: 2
+      parent: Aspiration Prayers
+    f6811:
+      title: Supplement to the Lineage Prayer for the Lamdré Instructions Composed
+        by Tsarchen
+      base_file: f6811.txt
+      order: 3
+      parent: Lineage Prayers
+    f1FBD:
+      title: Aspiration for the Long Life of Dezhung Rinpoche (Jampa Kunga Tenpé Nyima)
+      base_file: f1FBD.txt
+      order: 4
+      parent: Long Life Prayers
+    f1FB2:
+      title: Prayer for the Long Life of Jamyang Khyentse Chökyi Lodrö
+      base_file: f1FB2.txt
+      order: 5
+      parent: Long Life Prayers
+    f3A45:
+      title: Prayer for the Long Life of Khyenrab Chökyi Özer
+      base_file: f3A45.txt
+      order: 6
+      parent: Long Life Prayers
+    f4042:
+      title: 'Cloud Banks of Blessings: Praise and Prayer to the Vajradhara Ngawang
+        Lekpa'
+      base_file: f4042.txt
+      order: 7
+      parent: Praise
+    f528D:
+      title: Praise of Kunga Yeshe, Great Being and Master of Extensive Scriptural
+        Traditions
+      base_file: f528D.txt
+      order: 8
+      parent: Praise
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
